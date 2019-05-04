@@ -1,0 +1,2 @@
+# tes2
+Tugas arkademy kloter 3  Ini adalah project seleksi arkademy Project ini menggunakan tamplate dari pika,supaya cepat dalam mengerjakannnya. Project ini menggunakan database mysql dengan bahasa program php untuk CRUD data dan lainnya.dan menggunakan xampp  Software yang digunakan yaitu:  Crome Xampp Visual studio code Cara menjalankan software ini yaitu dengan cara :  Download file project saya. Hidupkan xampp,ckup star apache dan mysql Impor db sya ke xampp
